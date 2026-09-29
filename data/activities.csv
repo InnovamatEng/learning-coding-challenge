@@ -1,0 +1,59 @@
+activity_id,grade,language,title,statement,solution,teacher_notes,status
+1001,1,ca,Comptem fins a 10,Quants llapis hi ha a la capsa? Compta'ls i escriu el nombre.,7,Es pot fer amb material manipulatiu.,published
+1001,1,es,Contamos hasta 10,¿Cuántos lápices hay en la caja? Cuéntalos y escribe el número.,7,Se puede hacer con material manipulativo.,published
+1001,1,en,Counting to 10,How many pencils are in the box? Count them and write the number.,7,Can be done with hands-on material.,published
+1002,1,ca,Sumes fins a 10,En Pol té 3 pomes i la Júlia n'hi dóna 4 més. Quantes pomes té ara?,3 + 4 = 7 pomes,,published
+1002,1,es,Sumas hasta 10,Pol tiene 3 manzanas y Julia le da 4 más. ¿Cuántas manzanas tiene ahora?,3 + 4 = 7 manzanas,,published
+1002,1,en,Adding up to 10,Pol has 3 apples and Julia gives him 4 more. How many apples does he have now?,3 + 4 = 7 apples,,published
+1003,2,ca,Restes amb portar,Calcula 52 − 27. Explica com ho has fet.,25,Insistir en la descomposició del minuend.,published
+1003,2,es,Restas con llevada,Calcula 52 − 27. Explica cómo lo has hecho.,25,Insistir en la descomposición del minuendo.,published
+1004,2,ca,Figures planes,Quantes cares té un quadrat? I un triangle? Dibuixa'ls.,Un quadrat té 4 costats i un triangle en té 3.,,published
+1004,2,es,Figuras planas,¿Cuántos lados tiene un cuadrado? ¿Y un triángulo? Dibújalos.,Un cuadrado tiene 4 lados y un triángulo tiene 3.,,published
+1004,2,en,Plane shapes,How many sides does a square have? And a triangle? Draw them.,A square has 4 sides and a triangle has 3.,,published
+1005,3,ca,Taules de multiplicar,"Completa: 6 × 7 = ?, 8 × 4 = ?, 9 × 3 = ?","42, 32, 27",Es pot fer com a joc ràpid a l'inici de la sessió.,published
+1005,3,es,Tablas de multiplicar,"Completa: 6 × 7 = ?, 8 × 4 = ?, 9 × 3 = ?","42, 32, 27",Se puede hacer como juego rápido al inicio de la sesión.,published
+1005,3,en,Multiplication tables,"Complete: 6 × 7 = ?, 8 × 4 = ?, 9 × 3 = ?",,Can be used as a quick warm-up game.,published
+1006,3,ca,Fraccions senzilles,Pinta la meitat d'un rectangle dividit en 4 parts iguals. Quantes parts has pintat?,2 parts (2/4 = 1/2),,published
+1006,3,es,Fracciones sencillas,Pinta la mitad de un rectángulo dividido en 4 partes iguales. ¿Cuántas partes has pintado?,2 partes (2/4 = 1/2),,published
+1006,3,en,Simple fractions,Colour half of a rectangle divided into 4 equal parts. How many parts did you colour?,2 parts (2/4 = 1/2),,published
+1007,4,ca,Sumes amb decimals,"Calcula 3,25 + 1,8. Alinea bé les comes.","5,05",Error habitual: alinear els nombres per la dreta en comptes de per la coma.,published
+1007,4,es,Sumas con decimales,"Calcula 3,25 + 1,8. Alinea bien las comas.","5,05",Error habitual: alinear los números por la derecha en lugar de por la coma.,published
+1007,4,en,Adding decimals,Work out 3.25 + 1.8. Line up the decimal points.,5.05,Common mistake: right-aligning the numbers instead of aligning the decimal points.,published
+1008,4,ca,Perímetre del rectangle,Un rectangle fa 8 cm de llarg i 3 cm d'ample. Quin és el seu perímetre?,8 + 3 + 8 + 3 = 22 cm,,published
+1008,4,es,Perímetro del rectángulo,Un rectángulo mide 8 cm de largo y 3 cm de ancho. ¿Cuál es su perímetro?,   ,,published
+1008,4,en,Perimeter of a rectangle,A rectangle is 8 cm long and 3 cm wide. What is its perimeter?,8 + 3 + 8 + 3 = 22 cm,,published
+1009,4,ca,Divisió amb residu,Reparteix 23 caramels entre 4 nens. Quants en toquen a cadascú i quants en sobren?,5 caramels a cadascú i en sobren 3.,,published
+1009,4,es,División con resto,Reparte 23 caramelos entre 4 niños. ¿Cuántos le tocan a cada uno y cuántos sobran?,N/A,,published
+1009,4,en,Division with remainder,Share 23 sweets among 4 children. How many does each one get and how many are left over?,5 sweets each and 3 left over.,,published
+1010,5,ca,Percentatges,Una samarreta costa 20 € i té un 25 % de descompte. Quant costa ara?,20 − 5 = 15 €,,published
+1010,5,ES,Porcentajes,Una camiseta cuesta 20 € y tiene un 25 % de descuento. ¿Cuánto cuesta ahora?,20 − 5 = 15 €,,published
+1010,5,en,Percentages,A T-shirt costs €20 and has a 25% discount. How much does it cost now?,20 − 5 = €15,,published
+1011,5,ca,Angles,"Classifica aquests angles: 30°, 90°, 120°. Són aguts, rectes o obtusos?","30° agut, 90° recte, 120° obtús",,published
+1011,5,es,Ángulos,"Clasifica estos ángulos: 30°, 90°, 120°. ¿Son agudos, rectos u obtusos?","30° agudo, 90° recto, 120° obtuso",,published
+1011,5,en,Angles,"Classify these angles: 30°, 90°, 120°. Are they acute, right or obtuse?","30° acute, 90° right, 120° obtuse",,published
+1012,5,ca,Múltiples i divisors,Escriu tots els divisors de 24.,"1, 2, 3, 4, 6, 8, 12, 24",,Published
+1012,5,es,Múltiplos y divisores,Escribe todos los divisores de 24.,"1, 2, 3, 4, 6, 8, 12, 24",,published
+1012,5,en,Multiples and factors,Write all the factors of 24.,"1, 2, 3, 4, 6, 8, 12, 24",,published
+1013,6,ca,Àrea del triangle,Un triangle té 10 cm de base i 6 cm d'alçada. Calcula'n l'àrea.,(10 × 6) / 2 = 30 cm²,Recordar que l'alçada és perpendicular a la base.,published
+1013,6,en,Area of a triangle,A triangle has a base of 10 cm and a height of 6 cm. Work out its area.,(10 × 6) / 2 = 30 cm²,Remind students that the height is perpendicular to the base.,published
+1014,6,ca,Nombres negatius,A la matinada fa −3 °C i al migdia fa 8 °C. Quants graus ha pujat la temperatura?,11 °C,,published
+1014,6,es,Números negativos,De madrugada hace −3 °C y al mediodía hace 8 °C. ¿Cuántos grados ha subido la temperatura?,11 °C,,published
+1014,6,en,Negative numbers,At dawn it is −3 °C and at noon it is 8 °C. By how many degrees did the temperature rise?,-,,published
+1015,6,ca,Proporcionalitat,"Si 3 quaderns costen 4,50 €, quant costen 7 quaderns?","10,50 €",,published
+1015,6,es,Proporcionalidad,"Si 3 cuadernos cuestan 4,50 €, ¿cuánto cuestan 7 cuadernos?","10,50 €",,published
+1015,6,en,Proportionality,"If 3 notebooks cost €4.50, how much do 7 notebooks cost?",€10.50,,published
+1015,6,en,Proportional reasoning,"If 3 notebooks cost €4.50, how much do 7 notebooks cost?",€10.50,Updated title after review.,published
+1016,2,cat,Rellotge i hores,Dibuixa les agulles del rellotge marcant les 3 i mitja.,"Agulla curta entre el 3 i el 4, agulla llarga al 6.",,published
+1016,2,es,Reloj y horas,Dibuja las agujas del reloj marcando las 3 y media.,"Aguja corta entre el 3 y el 4, aguja larga en el 6.",,published
+1016,2,en,Clocks and time,Draw the clock hands showing half past three.,"Short hand between 3 and 4, long hand on 6.",,published
+1017,3,ca,Simetria,Dibuixa l'eix de simetria d'aquestes figures.,,Pendent de definir les figures amb il·lustració.,draft
+1018,1,ca,Patrons,"Continua la sèrie: vermell, blau, vermell, blau, ...","vermell, blau",,published 
+1018,1,es,Patrones,"Continúa la serie: rojo, azul, rojo, azul, ...","rojo, azul",,published
+1018,1,en,Patterns,"Continue the pattern: red, blue, red, blue, ...","red, blue",,published
+1019,5,ca,Volum del cub,Un cub té 3 cm d'aresta. Quin és el seu volum?,3 × 3 × 3 = 27 cm³,,draft
+1019,5,es,Volumen del cubo,Un cubo tiene 3 cm de arista. ¿Cuál es su volumen?,3 × 3 × 3 = 27 cm³,,draft
+1019,5,en,Volume of a cube,A cube has an edge of 3 cm. What is its volume?,,,draft
+1020,6,ca,Mitjana aritmètica,"Les notes d'en Marc són 6, 8, 7 i 9. Quina és la seva mitjana?","(6 + 8 + 7 + 9) / 4 = 7,5",,published
+1020,6,es,Media aritmética,"Las notas de Marc son 6, 8, 7 y 9. ¿Cuál es su media?","(6 + 8 + 7 + 9) / 4 = 7,5",,published
+1020,6,en,Arithmetic mean,"Marc's marks are 6, 8, 7 and 9. What is his mean mark?",(6 + 8 + 7 + 9) / 4 = 7.5,,published
+1007,4,ca,Sumes amb decimals,"Calcula 3,25 + 1,8. Alinea bé les comes.","5,05",Error habitual: alinear els nombres per la dreta en comptes de per la coma.,published
